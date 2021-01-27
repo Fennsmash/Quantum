@@ -1,6 +1,3 @@
-A theory of everything: The Quantum Cycle of Natural Beauty.
-Introduction of a time cycle into the Copenhagen interpretation
-
 This document has information about quantum mechanics and it might be difficult for some to follow. I believe within this document along with Fennsmash(v?) is the information needed to complete the theory/story of everything and all the Math Physics has been waiting for, for roughly 300,000 years. It was never going to be done with Math, we’ve always needed (storytellers) to (communicate), and (scientists) to (tell us what) to communicate. Nature comes first. Then the story. Then the science. Then understanding/truth. Until we get the story right, we cannot get the science right.
 
 I do my best to equate concepts to computers, which do an excellent job of providing context, but I had to make a few names up. I am not a Physicist. I approximated the Physics here based on self-study and PBS Space Time episodes with Matt O’Dowd. I reached as far into science as I could, but I am a Storyteller/Poet; someone needs to finish the rest, that’s how cycles work. In all sincerity, this might be a lot to process for some people. Thank you for reading.
@@ -76,88 +73,72 @@ e.	It is somehow a carrier of data
 f.	Gravitational waves travel at the speed of light, warping and stretching everything in space time, as if it were a fabric (speed of light will need to be constant for our theory to work; it is constant, which is apparently at-odds with much of modern Physics)
 
 This brings us to my first round of *probable* conclusions about gravity and the formation of the universe (I am open to edits here, as I said I thought this out based on Matt’s Space Time episodes, but I think this works well to (address/unite) many concepts we *do* know to be true):
-
-•	Gravitons exist in space in wave form. They are “moving” at the speed of light. Since they are in wave form, they are not constrained by the same laws as matter, so while we might say they are “moving” at the speed of light, they are not – they are simply *existing* at the speed of light
-
-•	Gravitons interact directly with matter, while they are in wave form
-
-•	Matter is not attracted to itself, BUT the graviton field’s general tendency (I’m not calling it a gravity field for a reason) is to behave as if individual gravitons are attracted to *each other*. Since gravitons as waves are not matter, and matter exists within its field, this results in a general tendency to behave like the displacement of water around a basketball – but NOT exactly the same.
-
-•	Gravity will squeeze into the ball. Except there’s a lot more going on in the quantum world than just that. Gravitons don’t eventually come to rest like water would a few minutes after you dunk the basketball (though in theory, the universe is probably approaching this state of homeostasis, and it would take a few trilliontrillion  years). A large mass of matter creates a void that increases the intensity of the “flow” of gravity around it, towards its center. It has disturbed the homeostasis of “a-general-tendency-to-behave-as-if-they-are-attracted-to-each-other-even-though-they-are-waves” by inserting itself between gravitons. In the case of stars, how many particles can you fit inside the volume of a star? That’s how many gravitons a star has come between.
-
-•	Since the big bang, gravitons have ‘flowed’ in this manner (for billions of years). When the first tiny pieces of matter touched each other, the “graviton field” around the objects increased its flow towards the center of the 2 objects very slightly. Just enough for some of them to stick together long enough to bump into a third piece of matter. Then a 4th.
-
-•	As the masses got bigger, so too did the inward force of the gravitons around them (towards their center). Large objects continued getting larger, and stars and planets were formed.
-
-•	[It might be the case that there has to be at least 2 particles for there to be any disturbance. 1 particle could be what theoretical “homeostasis” is like, OR all matter including individual particles might cause a tiny disturbance. It will absolutely change the math, but I don’t know how. Since it’s a binary variable, I think that means it will be easy to plug in numbers.]
-
-•	Around each large object is an “area of gravitational influence” but it is not a “gravitational field” per se. It is actually just a function of how much the object is disturbing the general tendency of gravitons to act as if they are attracted to themselves; we can call it the “essence current”.
-
-•	The disturbance should appear a bit like a ring, and the outer area of the ring at the point where the gravitational field is no longer disturbed by the object, would be the limit of the object’s influence on gravity. So whatever is around a large mass is more appropriately called a “ring of graviton [or gravitational] disturbance”. “Gravity” that pulls us back down to earth when we jump, is actually us jumping into a relatively powerful downward stream of “essence/gravity” current!
-
-•	Outside of any “rings of graviton disturbance”, gravitons are “flowing” more freely (but really just existing), NOT exactly in a mathematical homeostasis, but in a function that is approaching homeostasis outside of other disturbances, and still with a general tendency to behave as if gravitons are attracted to each other. 
-
-•	Whenever 2 large moving bodies of matter have an overlap in their ring of graviton disturbance, the gravitational force directly between them becomes ‘neutral’ [or in some way less than what is on the other side]. Since the force of homeostasis on the opposite sides of each body is greater than a neutral zero, those two bodies would move towards the neutral area between each other (not necessarily even really to ‘each other’).
-o	*This one is pretty close, but I need to think out the ‘neutral’ part, there might be a slight difference here you can help me with. Also, there might be something different in the way gravitons interact with matter, vs when they are not interacting with matter, thereby creating attraction in some other (additional AND/OR different) way.
-
-•	If their momentum is strong enough, after their trajectory has altered slightly, they would continue in their new trajectory, but their momentum would decrease proportionate to the amount of energy required to overcome the relative attraction to the proposed ‘neutral zone’.
-
-•	If many large objects across the universe were doing this, over time, a spiral effect would occur, contributing to the formation of a spiral galaxy. Theoretically a galaxy could form and ultimately momentum could overpower the force of gravity and it would come apart, but more likely most (if not all) galaxies are EITHER around today because they have reached a homeostasis (like a solar system) OR some, or all, are in a state of implosion (ultimately leading to supermassive black holes). If measurements are available, there should be a proportional relationship between galaxies and supermassive black holes, and stars and normal black holes (whatever that is). Though, since galaxies don’t have any standardized mass, there might not be a discernable point where you could say “OK this was a galaxy” and not “this was a swirling cluster of stars”. But, a full galactic black hole, now that would be something!
-
-•	Gravitons and “essence particles” (dark matter) are both quantum particles of data that coexist in the same field. The “essence field” is both the gravitational field AND the dark matter field (they are not distinct, and neither exists)
-
-•	I call this field the *essence field*
-
-•	The essence field is *quantum memory*, the *storage* area for quantum data. I think this is the same as saying space-time is this field of “quantum essence memory”, and most likely shakes things up or in total eliminates the current concept of “space-time”. 
+1.	Gravitons exist in space in wave form. They are “moving” at the speed of light. Since they are in wave form, they are not constrained by the same laws as matter, so while we might say they are “moving” at the speed of light, they are not – they are simply *existing* at the speed of light
+2.	Gravitons interact directly with matter, while they are in wave form
+3.	Matter is not attracted to itself, BUT the graviton field’s general tendency (I’m not calling it a gravity field for a reason) is to behave as if individual gravitons are attracted to *each other*. Since gravitons as waves are not matter, and matter exists within its field, this results in a general tendency to behave like the displacement of water around a basketball – but NOT exactly the same.
+4.	Gravity will squeeze into the ball. Except there’s a lot more going on in the quantum world than just that. Gravitons don’t eventually come to rest like water would a few minutes after you dunk the basketball (though in theory, the universe is probably approaching this state of homeostasis, and it would take a few trilliontrillion  years). A large mass of matter creates a void that increases the intensity of the “flow” of gravity around it, towards its center. It has disturbed the homeostasis of “a-general-tendency-to-behave-as-if-they-are-attracted-to-each-other-even-though-they-are-waves” by inserting itself between gravitons. In the case of stars, how many particles can you fit inside the volume of a star? That’s how many gravitons a star has come between.
+5.	Since the big bang, gravitons have ‘flowed’ in this manner (for billions of years). When the first tiny pieces of matter touched each other, the “graviton field” around the objects increased its flow towards the center of the 2 objects very slightly. Just enough for some of them to stick together long enough to bump into a third piece of matter. Then a 4th.
+6.	As the masses got bigger, so too did the inward force of the gravitons around them (towards their center). Large objects continued getting larger, and stars and planets were formed.
+7.	[It might be the case that there has to be at least 2 particles for there to be any disturbance. 1 particle could be what theoretical “homeostasis” is like, OR all matter including individual particles might cause a tiny disturbance. It will absolutely change the math, but I don’t know how. Since it’s a binary variable, I think that means it will be easy to plug in numbers.]
+8.	Around each large object is an “area of gravitational influence” but it is not a “gravitational field” per se. It is actually just a function of how much the object is disturbing the general tendency of gravitons to act as if they are attracted to themselves; we can call it the “essence current”.
+9.	The disturbance should appear a bit like a ring, and the outer area of the ring at the point where the gravitational field is no longer disturbed by the object, would be the limit of the object’s influence on gravity. So whatever is around a large mass is more appropriately called a “ring of graviton [or gravitational] disturbance”. “Gravity” that pulls us back down to earth when we jump, is actually us jumping into a relatively powerful downward stream of “essence/gravity” current!
+10.	Outside of any “rings of graviton disturbance”, gravitons are “flowing” more freely (but really just existing), NOT exactly in a mathematical homeostasis, but in a function that is approaching homeostasis outside of other disturbances, and still with a general tendency to behave as if gravitons are attracted to each other. 
+11.	Whenever 2 large moving bodies of matter have an overlap in their ring of graviton disturbance, the gravitational force directly between them becomes ‘neutral’ [or in some way less than what is on the other side]. Since the force of homeostasis on the opposite sides of each body is greater than a neutral zero, those two bodies would move towards the neutral area between each other (not necessarily even really to ‘each other’).
+a.	*This one is pretty close, but I need to think out the ‘neutral’ part, there might be a slight difference here you can help me with. Also, there might be something different in the way gravitons interact with matter, vs when they are not interacting with matter, thereby creating attraction in some other (additional AND/OR different) way.
+12.	If their momentum is strong enough, after their trajectory has altered slightly, they would continue in their new trajectory, but their momentum would decrease proportionate to the amount of energy required to overcome the relative attraction to the proposed ‘neutral zone’.
+13.	If many large objects across the universe were doing this, over time, a spiral effect would occur, contributing to the formation of a spiral galaxy. Theoretically a galaxy could form and ultimately momentum could overpower the force of gravity and it would come apart, but more likely most (if not all) galaxies are EITHER around today because they have reached a homeostasis (like a solar system) OR some, or all, are in a state of implosion (ultimately leading to supermassive black holes). If measurements are available, there should be a proportional relationship between galaxies and supermassive black holes, and stars and normal black holes (whatever that is). Though, since galaxies don’t have any standardized mass, there might not be a discernable point where you could say “OK this was a galaxy” and not “this was a swirling cluster of stars”. But, a full galactic black hole, now that would be something!
+14.	Gravitons and “essence particles” (dark matter) are both quantum particles of data that coexist in the same field. The “essence field” is both the gravitational field AND the dark matter field (they are not distinct, and neither exists)
+15.	I call this field the *essence field*
+16.	The essence field is *quantum memory*, the *storage* area for quantum data. I think this is the same as saying space-time is this field of “quantum essence memory”, and most likely shakes things up or in total eliminates the current concept of “space-time”. 
 
 That was a lot to take in.
 Yet, we must go on! Into the cosmos!
 
 It brings us to the next round of questions:
-•	What would the properties of memory be in this context?
-•	What are its limitations?
-•	Does it delete anything?
-•	HOW would it delete something?
-•	WHY would it delete something?
+1.	What would the properties of memory be in this context?
+2.	What are its limitations?
+3.	Does it delete anything?
+4.	HOW would it delete something?
+5.	WHY would it delete something?
 
 And it’s even more to take in. So, I start by thinking of deletion. When you delete data – it just disappears. But physics today says that’s impossible, nothing can be zapped out of existence. And here’s the rub. We were told matter can neither be created nor destroyed. We’ve shown that it can be created in this cyclical model-we theorized a cycle. And here, just as we are trying to wrap up the full cycle, still needing to reconcile the creation of something from nothing - one of the last remaining frontiers, black holes, for the first time ever, have come to save the day in a Physics problem. Please at least give me credit for making black holes the good guy for once. [post] Modern Physics says black holes are impossible, because matter is sucked into a vacuum of nothingness and zapped out of existence. Again, I don’t have the math, but this is the cycle, and I actually can keep showing that it makes sense with a little help from the math someone else named Planck already found out! 
 
 This has gotten us to, ok, so, how would the universe efficiently run this cycle of deletion? What would make the most sense? What is the framework to approach this from?
-•	We want ‘essence particles’ to be *safe*
-•	We care less about gravitons
-•	Both exist and have a role
+1.	We want ‘essence particles’ to be *safe*
+2.	We care less about gravitons
+3.	Both exist and have a role
 
 Given our assumption that black holes are a part of a universe-spanning cyclical natural process, and they are the deletion of data, HOW would this ‘essence field of memory’ initiate the deletion process in the first place? Answer: The deletion process is just always happening. Deletion is part of the cycle, and it is the cycle that causes the deletion.
 
 Here’s what we know (AND/OR can reasonably postulate) that is relevant now:
-•	Less desirable gravitons, acting as waves, behave with a general tendency to be attracted to each other, while essence particles (as waves) demonstrate no tendency towards anything (I haven’t thought deeply this part yet, but so far, not relevant. Maybe they are attracted to nothing, maybe to themselves, maybe just away from gravitons, we don’t need to know that yet.)
-•	Memory, as in the form of computer storage, should have a limit, or a *threshold*
-•	To *exceed* the “quantum memory threshold” would be *catastrophic*
-•	Any given volume of space, small or large, will be able to hold a finite amount of data. This will be called “essence memory threshold”
+1.	Less desirable gravitons, acting as waves, behave with a general tendency to be attracted to each other, while essence particles (as waves) demonstrate no tendency towards anything (I haven’t thought deeply this part yet, but so far, not relevant. Maybe they are attracted to nothing, maybe to themselves, maybe just away from gravitons, we don’t need to know that yet.)
+2.	Memory, as in the form of computer storage, should have a limit, or a *threshold*
+3.	To *exceed* the “quantum memory threshold” would be *catastrophic*
+4.	Any given volume of space, small or large, will be able to hold a finite amount of data. This will be called “essence memory threshold”
 
 And this is how we have solved the problem of gravity, gravitons, black holes, dark matter, dark field, etc. I believe the math has already been done – the essence field memory threshold will be a function of Planck Scale and/or Planck Time.
 
-•	When we try to measure something smaller than a Planck length, the energy of measuring/interacting with this space will cause it to exceed the “essence memory threshold”
-•	This results in deletion, or, a black hole. I believe the math to prove this already exists as well
-•	I call the smallest unit of memory, Planck-Leo memory
-•	This event only happens in *nature* when a large amount of data is gathered in one space, and an incredible, universe-ripping amount of force squeezes it so hard it occupies an amount of space that cannot contain it. It exceeds the “essence memory threshold” and is deleted.
-•	This deletion, what happens in a black hole, I call *Fennsmash*
-•	I have written a logical mathematical construct in which I derived the shape of the universe we experience should be part of a looping system of universes.
-•	I identified 4 universes in this system, which could loop in 4 OR extend into infinity.
-•	I believe imaginary numbers, in Math, the ones that cycle in a system of 4, coincide with my Mathematical construct and can be identified as Mathematical expressions of 4 universes.
-•	Anything outside of this fully linked loop of universes – would be considered a second dimension.
-•	This would mean mathematically we live in ONE dimension. We won’t turn into pancakes, but this turns all of Math on its head – Math assumes 3 dimensions.
-•	It is good to turn Math on its head; we have 7 unsolvable Millennium Math problems this would resolve given the refutation of the 3-dimensional system of Math. 
-•	It also resolves all the observable Physics. Black holes, when viewed as being on the outside of a looping system of 4 universes, would simply eject excess matter into the “external” dimension.
+1.	When we try to measure something smaller than a Planck length, the energy of measuring/interacting with this space will cause it to exceed the “essence memory threshold”
+2.	This results in deletion, or, a black hole. I believe the math to prove this already exists as well
+3.	I call the smallest unit of memory, Planck-Leo memory
+4.	This event only happens in *nature* when a large amount of data is gathered in one space, and an incredible, universe-ripping amount of force squeezes it so hard it occupies an amount of space that cannot contain it. It exceeds the “essence memory threshold” and is deleted.
+5.	This deletion, what happens in a black hole, I call *Fennsmash*
+6.	I have written a logical mathematical construct in which I derived the shape of the universe we experience should be part of a looping system of universes.
+7.	I identified 4 universes in this system, which could loop in 4 OR extend into infinity.
+8.	I believe imaginary numbers, in Math, the ones that cycle in a system of 4, coincide with my Mathematical construct and can be identified as Mathematical expressions of 4 universes.
+9.	Anything outside of this fully linked loop of universes – would be considered a second dimension.
+10.	This would mean mathematically we live in ONE dimension. We won’t turn into pancakes, but this turns all of Math on its head – Math assumes 3 dimensions.
+11.	It is good to turn Math on its head; we have 7 unsolvable Millennium Math problems this would resolve given the refutation of the 3-dimensional system of Math. 
+12.	It also resolves all the observable Physics. Black holes, when viewed as being on the outside of a looping system of 4 universes, would simply eject excess matter into the “external” dimension.
 
 This is the Quantum Cycle, a working theory of everything, and all living beings are a beautiful part of it. Oh, yeah. The speed of light – it works in as the speed of thought. It is the only way to ‘exist’ in the quantum world, and must be constant. I have more work to do, but felt this should be complete enough for the eager minds of Physicists to chomp on. I cannot include my current theories on time because they are incomplete.
 
-•	It has taken me about 4 days to get this together. I am either dreadfully wrong, or if anything, unabashedly amazed at my own creativity in making this up. This is a LOT for someone self-taught to just write down in a flow of consciousness, right? Should I start taking Math classes or just write a Sci-fi book?
-o	If you like this even as a neat story – I’d welcome you to share it!!
-o	Email me questions, comments, concerns: michaelleoemerson@outlook.com
+1.	It has taken me about 4 days to get this together. I am either dreadfully wrong, or if anything, unabashedly amazed at my own creativity in making this up. This is a LOT for someone self-taught to just write down in a flow of consciousness, right? Should I start taking Math classes or just write a Sci-fi book?
+a.	If you like this even as a neat story – I’d welcome you to share it!!
+b.	Email me questions, comments, concerns: michaelleoemerson@outlook.com
 
 Thank you for reading this!!
-Next page: Excellent drawing. Save cat.
+Next page: Excellent drawing. Save cat. Only appears in word/pdf version
 
 
 
