@@ -43,22 +43,7 @@ But why do we think this just happen in science labs? I don’t think it does at
 
 So what happens now that we have seen a sight or heard a sound or smelled a smell? What then? The answer: It travels to our brains (not 100% sure how, but electric signals make the most sense to me) gets stored in our brains, and ultimately released back into the quantum world – via brain waves. Especially at night, we are actively converting non-quantum data (the data we removed from the quantum world) back into quantum data. 
 
-“But can we get some natural language definitions to clarify what you are attempting to communicate to us?”
-
-My heart just melted. It would be my pleasure. Did you know I also love charts? Let’s keep a running chart, just for: ~continuous~ context! Is it Math, is it language I don’t know anymore I guess it’s all the same.
-
-Context chart 4 People
-Human Language/our reality	Natural Language/Nature’s reality
-data	information
-Particle	wave
-
 So as you might notice, not only do we have our first definition, we already have our first unanswered HUGE science answer! We figured out sleep before we even got to gravity. Sleep (lots of brain wave things happening) is our hardware (brain) converting non-quantum data back into quantum data. The human brain is a quantum computer. Creative people, many geniuses, who think in a more “quantum” state during the day, store and process data differently. All people can think in the “quantum state”, some just do it more often. They seem scatterbrained, loopy, ‘out of touch with reality’ they have less need for sleep because they have not collected as much non-quantum data throughout the day, and therefore need less time converting it at night. Many people are forcing themselves to stick to an unnecessary sleep routine. (Waking up on time for work) > (going to bed on time). What’s most “natural” would be going to sleep when tired
-
-Context chart 4 People
-Human Language/our reality	Natural Language/Nature’s reality
-data	information
-Particle	wave
-Sleep 8 hours for everybody	Sleep when tired, wake with sunlight
 
 So what is the relationship between our hardware, this ‘quantum computer’, its inputs, and the quantum world? This is the second and most major concept: the quantum world and the non-quantum world (the two components that together make us *alive*) act not as one thing, because they are not one thing - but two separate *entities* in a cyclical, symbiotic relationship. Our hardware collects, stores, and processes data in our brains, and converts it back into quantum data, into what I will call for now ‘the essence field’ (defined later in this paper). But what would the point be? There is no overall change in the universe after a cycle of data being “reformatted” from wave to particle and back again.
 
