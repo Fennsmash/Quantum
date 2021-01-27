@@ -76,22 +76,38 @@ e.	It is somehow a carrier of data
 f.	Gravitational waves travel at the speed of light, warping and stretching everything in space time, as if it were a fabric (speed of light will need to be constant for our theory to work; it is constant, which is apparently at-odds with much of modern Physics)
 
 This brings us to my first round of *probable* conclusions about gravity and the formation of the universe (I am open to edits here, as I said I thought this out based on Matt’s Space Time episodes, but I think this works well to (address/unite) many concepts we *do* know to be true):
+
 •	Gravitons exist in space in wave form. They are “moving” at the speed of light. Since they are in wave form, they are not constrained by the same laws as matter, so while we might say they are “moving” at the speed of light, they are not – they are simply *existing* at the speed of light
+
 •	Gravitons interact directly with matter, while they are in wave form
+
 •	Matter is not attracted to itself, BUT the graviton field’s general tendency (I’m not calling it a gravity field for a reason) is to behave as if individual gravitons are attracted to *each other*. Since gravitons as waves are not matter, and matter exists within its field, this results in a general tendency to behave like the displacement of water around a basketball – but NOT exactly the same.
+
 •	Gravity will squeeze into the ball. Except there’s a lot more going on in the quantum world than just that. Gravitons don’t eventually come to rest like water would a few minutes after you dunk the basketball (though in theory, the universe is probably approaching this state of homeostasis, and it would take a few trilliontrillion  years). A large mass of matter creates a void that increases the intensity of the “flow” of gravity around it, towards its center. It has disturbed the homeostasis of “a-general-tendency-to-behave-as-if-they-are-attracted-to-each-other-even-though-they-are-waves” by inserting itself between gravitons. In the case of stars, how many particles can you fit inside the volume of a star? That’s how many gravitons a star has come between.
+
 •	Since the big bang, gravitons have ‘flowed’ in this manner (for billions of years). When the first tiny pieces of matter touched each other, the “graviton field” around the objects increased its flow towards the center of the 2 objects very slightly. Just enough for some of them to stick together long enough to bump into a third piece of matter. Then a 4th.
+
 •	As the masses got bigger, so too did the inward force of the gravitons around them (towards their center). Large objects continued getting larger, and stars and planets were formed.
+
 •	[It might be the case that there has to be at least 2 particles for there to be any disturbance. 1 particle could be what theoretical “homeostasis” is like, OR all matter including individual particles might cause a tiny disturbance. It will absolutely change the math, but I don’t know how. Since it’s a binary variable, I think that means it will be easy to plug in numbers.]
+
 •	Around each large object is an “area of gravitational influence” but it is not a “gravitational field” per se. It is actually just a function of how much the object is disturbing the general tendency of gravitons to act as if they are attracted to themselves; we can call it the “essence current”.
+
 •	The disturbance should appear a bit like a ring, and the outer area of the ring at the point where the gravitational field is no longer disturbed by the object, would be the limit of the object’s influence on gravity. So whatever is around a large mass is more appropriately called a “ring of graviton [or gravitational] disturbance”. “Gravity” that pulls us back down to earth when we jump, is actually us jumping into a relatively powerful downward stream of “essence/gravity” current!
+
 •	Outside of any “rings of graviton disturbance”, gravitons are “flowing” more freely (but really just existing), NOT exactly in a mathematical homeostasis, but in a function that is approaching homeostasis outside of other disturbances, and still with a general tendency to behave as if gravitons are attracted to each other. 
+
 •	Whenever 2 large moving bodies of matter have an overlap in their ring of graviton disturbance, the gravitational force directly between them becomes ‘neutral’ [or in some way less than what is on the other side]. Since the force of homeostasis on the opposite sides of each body is greater than a neutral zero, those two bodies would move towards the neutral area between each other (not necessarily even really to ‘each other’).
 o	*This one is pretty close, but I need to think out the ‘neutral’ part, there might be a slight difference here you can help me with. Also, there might be something different in the way gravitons interact with matter, vs when they are not interacting with matter, thereby creating attraction in some other (additional AND/OR different) way.
+
 •	If their momentum is strong enough, after their trajectory has altered slightly, they would continue in their new trajectory, but their momentum would decrease proportionate to the amount of energy required to overcome the relative attraction to the proposed ‘neutral zone’.
+
 •	If many large objects across the universe were doing this, over time, a spiral effect would occur, contributing to the formation of a spiral galaxy. Theoretically a galaxy could form and ultimately momentum could overpower the force of gravity and it would come apart, but more likely most (if not all) galaxies are EITHER around today because they have reached a homeostasis (like a solar system) OR some, or all, are in a state of implosion (ultimately leading to supermassive black holes). If measurements are available, there should be a proportional relationship between galaxies and supermassive black holes, and stars and normal black holes (whatever that is). Though, since galaxies don’t have any standardized mass, there might not be a discernable point where you could say “OK this was a galaxy” and not “this was a swirling cluster of stars”. But, a full galactic black hole, now that would be something!
+
 •	Gravitons and “essence particles” (dark matter) are both quantum particles of data that coexist in the same field. The “essence field” is both the gravitational field AND the dark matter field (they are not distinct, and neither exists)
+
 •	I call this field the *essence field*
+
 •	The essence field is *quantum memory*, the *storage* area for quantum data. I think this is the same as saying space-time is this field of “quantum essence memory”, and most likely shakes things up or in total eliminates the current concept of “space-time”. 
 
 That was a lot to take in.
