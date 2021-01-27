@@ -1,4 +1,4 @@
-#Theory of Everything: The Quantum Cycle of Natural Beauty.
+A theory of everything: The Quantum Cycle of Natural Beauty.
 Introduction of a time cycle into the Copenhagen interpretation
 
 This document has information about quantum mechanics and it might be difficult for some to follow. I believe within this document along with Fennsmash(v?) is the information needed to complete the theory/story of everything and all the Math Physics has been waiting for, for roughly 300,000 years. It was never going to be done with Math, we’ve always needed (storytellers) to (communicate), and (scientists) to (tell us what) to communicate. Nature comes first. Then the story. Then the science. Then understanding/truth. Until we get the story right, we cannot get the science right.
