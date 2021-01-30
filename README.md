@@ -42,14 +42,9 @@ Audience                                                                        
 [Harmless/(not offensive(I hope)) human personalities]
 Movie quotes you (will/wont) get [not many, just for fun] Right *now* I think I’m waving.
 Maybe a[nother] spatial element ((is your screen dirty or is it just me?) No that’s not it)======>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<=would make it into a kind of (poem/story/artwork/creative-contribution-to-the-world). need to blur imbedded *context* of ‘normal’ language. are we outside of the (box/paper) yet? am(eye)talking to you or to everyone? would it matter? would you mind? of the errors you will find, some are unintentional and some are not That last one was the latter. it’s a dance not a XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMarch<=you have to be a little loopy=> March. February. January. December=====>I wrote a bucolic countryside and smashed it into this poem.
-Are we able to
-Turn water
-Into w
-hale
-?                                             Hey look! Willy is still doing great :)
+
+<=would make it into a kind of (poem/story/artwork/creative-contribution-to-the-world). need to blur imbedded *context* of ‘normal’ language. are we outside of the (box/paper) yet? am(eye)talking to you or to everyone? would it matter? would you mind? of the errors you will find, some are unintentional and some are not That last one was the latter. it’s a dance not a March<=you have to be a little loopy=> March. February. January. December=====>I wrote a bucolic countryside and smashed it into this poem.
+                                           
 +FenNsmash-
 Black hole
 Not a black hole
