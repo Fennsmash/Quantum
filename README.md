@@ -38,7 +38,7 @@ Boy
 Son
 Man                                                        .
 Advisor
-Audience                                                                           \    
+Audience                                                                               
 [Harmless/(not offensive(I hope)) human personalities]
 Movie quotes you (will/wont) get [not many, just for fun] Right *now* I think I’m waving.
 Maybe a[nother] spatial element ((is your screen dirty or is it just me?) No that’s not it)======>
